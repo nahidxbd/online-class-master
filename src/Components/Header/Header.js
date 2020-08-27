@@ -3,7 +3,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header">
-            <h1>Online Courses</h1>
+            <h1>Online Guitar Courses</h1>
             
             <nav className="navbar navbar-expand-lg navbar-light  bg-warning ">
                 <a class="navbar-brand brand" href="/course"> Online Courses</a>
